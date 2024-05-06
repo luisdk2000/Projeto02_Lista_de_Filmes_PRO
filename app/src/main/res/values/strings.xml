@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto02_Lista_de_Filmes(PRO)</string>
+    <string name="movie_list">Lista de Filmes</string>
+    <string name="insert_new_movie">Insira um novo filme</string>
+    <string name="insert_movie">Insira Filme</string>
+    <string name="confirm">Confirmar</string>
+    <string name="edit_movie">Editar Filme</string>
+</resources>
